@@ -43,6 +43,7 @@ Exams
 |Quiz 1| - | 13 Nov 25 | PHP Basic| N/A |
 |Assignment 2| 8% | 5 Jan 26 | Full Stack Tech | [Instructions]()|
 |Midterm  2| 20% | TBA| Full Stack Technology|CRUD|
+|Quiz 2| - | TBA | Javascript | N/A |
 |Final Exam  | 25% | TBA| Full Stack Technology |TBA|
 |Viva | 5% | TBA | Web technology |TBA|
 |Project| 20% | TBA | Web Project based on Full Stack Technology|TBA|
