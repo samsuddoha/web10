@@ -8,9 +8,9 @@
 | Lectures | No of Sessions | Contents | Remarks |
 |----------|-----------------|----------|---------|
 | Lecture 1   | 2 | Introduction of Web   | Basic   |
-| Lecture 2  | 2 |  <ul> <li>Intro to HTML </li> <li>Structure of HTML</li> <li>Elements, Attributes </li> <li> Headings, Paragraph, Formatting, Quotations, Comments</li> </ul>  | L2   |
-| Lecture 3   | 2 | <ul> <li>Styles, CSS </li> <li>Colors</li> <li>Links </li>  <li>Images</li> <li>Tables</li> <li>List</li> <li>Favicon, Title </li> </ul>   | [L3 Resources](https://github.com/samsuddoha/WebEngineeringLab/tree/main/HTML/Lecture%203)   |
-| Lecture 4 | 2 | <ul> <li>Inline & Block </li> <li>Div & Span</li> <li> HTML Layout</li> <li>Entities Symbols, Emojis</li> <li> **HTML Forms** </li> </ul>| [L4 Resources](https://github.com/samsuddoha/WebEngineeringLab/tree/main/HTML/Lecture%204)|
+| Lecture 2  | 2 |  <ul> <li>Intro to HTML </li> <li>Structure of HTML</li> <li>Elements, Attributes </li> <li> Headings, Paragraph, Formatting, Quotations, Comments</li> </ul>  | -   |
+| Lecture 3   | 2 | <ul> <li>Styles, CSS </li> <li>Colors</li> <li>Links </li>  <li>Images</li> <li>Tables</li> <li>List</li> <li>Favicon, Title </li> </ul>   | w3Schools  |
+| Lecture 4 | 2 | <ul> <li>Inline & Block </li> <li>Div & Span</li> <li> HTML Layout</li> <li>Entities Symbols, Emojis</li> <li> **HTML Forms** </li> </ul>| -|
 
 ## CSS Contents
 ---
