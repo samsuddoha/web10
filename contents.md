@@ -31,10 +31,11 @@
 | <b>Homework</b>| 2 |<ul> <li> [PHP basic](https://github.com/samsuddoha/web10/blob/main/PHP/1.%20PHP_Homework.pdf) </li><li>Show Voter List with Eligibility</li></ul>   | - |
 | <b>Lecture 2 <br> (PHP, HTML)</b>| 2 |<ul> <li>Working With Table, Grid View</li> </ul>   | [Code](https://github.com/samsuddoha/web10/blob/main/PHP/Lecture2)   |
 | <b>Lecture 3 <br> (CRUD - PHP, MySQL)</b>| 4 |<ul> <li>DB Connection</li><li>Working with Form</li><li>Insert Data(Form to DB) </li> <li>Select Data (DB to Table & grid)</li><li>Update and Delete Data</li><li>Crud on student & teacher table</li></ul>   | [Code](https://github.com/samsuddoha/web10/blob/main/PHP/Lecture3_crud)   |
+| <b>Lecture 4 <br> (PHP Functions)</b>| 4 |<ul> <li>[Array Functions](https://www.w3schools.com/php/php_arrays_functions.asp)</li><li>Implode & Explode</li><li>Form Validation (trim, stripslashes, htmlspecialchars)</li> </ul>   | [Slide]()  |
 
 
 
-Exams
+Exams Timeline
 ---
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
@@ -49,7 +50,7 @@ Exams
 |Viva | 5% | 17 Feb 26 | Web technology |TBA|
 |Project| 20% | 25 & 26 Feb 26 | Web Project based on Full Stack Technology|TBA|
 
-Project
+Project Timeline
 ---
 
 |Tasks | Deadline| Instructions | Resources|
