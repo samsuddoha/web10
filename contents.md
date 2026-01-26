@@ -30,6 +30,7 @@
 | <b>Lecture 1 <br> (Basic of PHP)</b>| 6 |<ul> <li>Introduction to PHP </li> <li>Environment Setup</li> <li> PHP Syntax</li> <li>PHP Output (Echo/print), Comments </li> <li>Variables, Data Types, Operators </li> <li> Conditional statement,Loop Statement</li> <li> Array, Functions</li></ul>   | [Slide](https://github.com/samsuddoha/web10/blob/main/PHP/PHP-Lecture%20%20Basic.pdf)   |
 | <b>Homework</b>| 2 |<ul> <li> [PHP basic](https://github.com/samsuddoha/web10/blob/main/PHP/1.%20PHP_Homework.pdf) </li><li>Show Voter List with Eligibility</li></ul>   | - |
 | <b>Lecture 2 <br> (PHP, HTML)</b>| 2 |<ul> <li>Working With Table, Grid View</li> </ul>   | [Code](https://github.com/samsuddoha/web10/blob/main/PHP/Lecture2)   |
+| <b>Lecture 3 <br> (CRUD - PHP, MySQL)</b>| 4 |<ul> <li>DB Connection</li><li>Working with Form</li><li>Insert Data(Form to DB) </li> <li>Select Data (DB to Table & grid)</li><li>Update and Delete Data</li><li>Crud on student & teacher table</li></ul>   | [Code](https://github.com/samsuddoha/web10/blob/main/PHP/Lecture3_crud)   |
 
 
 
@@ -38,23 +39,23 @@ Exams
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Midterm 1| 20% | 2 Nov 25 | HTML & CSS | -|
+|Midterm 1| 10% | 2 Nov 25 | HTML & CSS | -|
 |Assignament 1| 7% | 2 Nov 25 | HTML & CSS | [Instructions]()|
 |Quiz 1| - | 13 Nov 25 | PHP Basic| N/A |
-|Assignment 2| 8% | 5 Jan 26 | Full Stack Tech | [Instructions]()|
-|Midterm  2| 20% | TBA| Full Stack Technology|CRUD|
+|Assignment 2| 8% | 5 Jan 26 | Full Stack Tech (Pending) | [Instructions]()|
+|Midterm  2| 10% | 25 Jan 26| Full Stack Technology|CRUD|
 |Quiz 2| - | TBA | Javascript | N/A |
-|Final Exam  | 25% | TBA| Full Stack Technology |TBA|
-|Viva | 5% | TBA | Web technology |TBA|
-|Project| 20% | TBA | Web Project based on Full Stack Technology|TBA|
+|Final Exam  | 25% | 17 Feb 26| Full Stack Technology |TBA|
+|Viva | 5% | 17 Feb 26 | Web technology |TBA|
+|Project| 20% | 25 & 26 Feb 26 | Web Project based on Full Stack Technology|TBA|
 
 Project
 ---
 
 |Tasks | Deadline| Instructions | Resources|
 |-----|------------|------------|------------|
-|Team Formation & <br> Project Idea submission| TBA | TBA | N/A |
-|Project Proposal Submission| TBA| TBA | TBA |
-|Project Progress 1| TBA| TBA | TBA |
-|Project Progress 2| TBA| TBA | TBA |
-|Project Final Presentation| TBA| TBA | TBA |
+|Team Formation & <br> Project Idea submission| - | - | [Idea Submission](https://docs.google.com/spreadsheets/d/1NhbOmjEf7EV7OfNKk0I0FhA4NnIwFgelXNYAvp8of8A/edit?usp=sharing) |
+|Project Proposal Submission| 1 Feb 26| TBA | TBA |
+|Project Progress 1| 8 Feb 26| TBA | TBA |
+|Project Progress 2| 18 Feb 26| TBA | TBA |
+|Project Final Presentation| 25 & 26 Feb 26| TBA | TBA |
