@@ -24,6 +24,8 @@
 
  PHP Contents
 ---
+Resources: 
+- Video Tutorial: [Training with Live Project](https://www.trainingwithliveproject.com/p/php-tutorials.html)
 
 | Lectures and Topics | No of Sessions | Contents | Resources |
 |---------------------|----------------|----------|-----------|
