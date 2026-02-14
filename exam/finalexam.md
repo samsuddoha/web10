@@ -10,7 +10,7 @@ In the final exam, you will develop a **mini web application** that primarily fo
 - **Sample Problem:**  
 Develop an application for a **Complaint Management System** where a user can create a token to submit a problem. After the issue is resolved, it should be marked as **Resolved**.
 
-- **Sample Code:** Download this code and have a look of this application.[Code]()
+- **Sample Code:** Download this code and have a look of this application. **[Code](https://github.com/samsuddoha/web10/tree/main/exam/democode)**
 
 ---
 
