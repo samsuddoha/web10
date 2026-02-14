@@ -8,9 +8,9 @@ In the final exam, you will develop a **mini web application** that primarily fo
 ## 📝 Demo Question Format
 
 - **Sample Problem:**  
-Develop an application for a **Complaint Management System** where a user can create a token to submit a problem. After the issue is resolved, it should be marked as **Resolved**.
+Develop an application for a **Complaint Management System** where a user can create a token to submit a problem. After the issue is resolved, it should be marked as **Resolved**. Authetication is required for this application.
 
-- **Sample Code:** Download this code and have a look of this application. **[Code](https://github.com/samsuddoha/web10/tree/main/exam/democode)**
+- **Sample Code:** Download this code and have a look of this application. **[Source Code](https://github.com/samsuddoha/web10/tree/main/exam/democode)**
 
 ---
 
