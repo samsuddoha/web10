@@ -1,8 +1,7 @@
 # 🧪 Final Exam Instructions — Mini Application Development
 
 ## 📌 Overview
-In the final exam, you will develop a **mini web application** that primarily focuses on implementing **CRUD (Create, Read, Update, Delete) operations**.  
-To understand the expected question pattern and level of complexity, you may download and review the demo application below.
+In the final exam, you will develop a **mini web application** that primarily focuses on implementing **CRUD (Create, Read, Update, Delete) operations**. To understand the expected question pattern and level of complexity, you may download and review the demo application below.
 
 ---
 
@@ -32,8 +31,7 @@ The exam will be conducted in **two shifts**:
 
 
 ## ⚠️ NB
-1. You must use **lab computers** for the exam.  
-   ➤ Personal laptops or devices are **not allowed**.
+1. You must use **lab computers** for the exam. Personal laptops or devices are **not allowed**.
 2. **Internet access will not be permitted** during the examination.
 
 ---
