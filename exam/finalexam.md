@@ -1,4 +1,4 @@
-# 🧪 Final Exam Instructions — Mini Application Development
+# 🧪 Final Exam Instructions
 
 ## 📌 Overview
 In the final exam, you will develop a **mini web application** that primarily focuses on implementing **CRUD (Create, Read, Update, Delete) operations**. To understand the expected question pattern and level of complexity, you may download and review the demo application below.

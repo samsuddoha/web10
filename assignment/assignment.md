@@ -16,7 +16,7 @@ You must complete all of the following:
 
 - Upload your full source code  and DB SQL file to **GitHub**
 - Deploy your project on a **free hosting platform**
-- Submit the following via the form: 📎 **Submission Form:** [Form](https://docs.google.com/forms/d/e/1FAIpQLSfz0Fto7xPhlNhojwOoaMNKxMK4VOe62hOSvKqrif1q27e35Q/viewform?usp=publish-editor)
+- Submit the assignment via the form (Github Repo link and Hosting Link): 📎 **Submission Form:** [Form](https://docs.google.com/forms/d/e/1FAIpQLSfz0Fto7xPhlNhojwOoaMNKxMK4VOe62hOSvKqrif1q27e35Q/viewform?usp=publish-editor)
 
 ---
 
