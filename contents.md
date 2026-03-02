@@ -57,7 +57,7 @@ Project Timeline
 |Tasks | Deadline| Instructions | Resources|
 |-----|------------|------------|------------|
 |Team Formation & <br> Project Idea submission| - | - | [Idea Submission](https://docs.google.com/spreadsheets/d/1NhbOmjEf7EV7OfNKk0I0FhA4NnIwFgelXNYAvp8of8A/edit?usp=sharing) |
-|Project Proposal Submission| 1 Feb 26| TBA | TBA |
-|Project Progress 1| 8 Feb 26| TBA | TBA |
-|Project Progress 2| 18 Feb 26| TBA | TBA |
-|Project Final Presentation| 25 & 26 Feb 26| TBA | TBA |
+|Project Proposal Submission| 1 Feb 26| - | - |
+|Project Progress 1| 8 Feb 26| - | - |
+|Project Progress 2| 18 Feb 26| - | - |
+|Project Final Presentation| 04 March 26 (10.00am-4.00pm)| [Instrcutions](https://github.com/samsuddoha/web10/blob/main/presentation.md) | - |
