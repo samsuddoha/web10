@@ -99,7 +99,7 @@ Failure to upload code or host the project will result in mark deduction.
 
 | Criteria | Marks |
 |----------|-------|
-| Project Functionality | 15 |
+| Project Functionality/Work | 15 |
 | Presentation performance | 5 |
 | Demonstration | 5 |
 | GitHub Submission, Hosting, Team work | 5 |
