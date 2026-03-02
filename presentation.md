@@ -1,52 +1,34 @@
 # Web Project Presentation Instructions
 
 ## 📌 Overview
-This is a **team-based web application project presentation**.  
-Each team will present their developed project and provide a live demonstration of the system.
-
-The purpose of this presentation is to evaluate:
-- Understanding of web development concepts
-- Team collaboration
-- Practical implementation skills
-- Communication and presentation ability
-
----
+This project presentation is a team-based evaluation of a web application developed by the students. Each team will present their project, explain the problem it addresses, describe the technologies used, and demonstrate the system’s functionality through a live demo. The presentation aims to assess not only the technical implementation of the project but also the team’s understanding of web development concepts, collaboration skills, communication ability, and overall professionalism. Active participation from all team members is mandatory, as marks will be awarded based on both project quality and presentation performance.
 
 ## 📅 Presentation Schedule
 
 - **Date:** 04 March  
 - **Time:** 10:00 AM – 4:00 PM  
-- **Venue:** [Classroom/Lab Name]
+- **Venue:** Networking Lab
 
-All teams must be present at the venue before 10:00 AM.
+All teams must be present at the venue on time.
 
 ---
 
 ## ⏳ Time Allocation
 
 - Each team will get **10 minutes total**:
-  - 6–7 minutes → Presentation
-  - 3–4 minutes → Live Demonstration
-- Strict time management will be maintained.
-- Every team member **must participate** in the presentation.
-
----
-
-## 👥 Team Participation Rules
-
-- All members must speak during the presentation.
-- Marks will be deducted if:
-  - Only one member presents.
-  - Some members do not participate.
-- Equal contribution is strongly encouraged.
+  - 5 minutes → Presentation
+  - 5 minutes → Live Demonstration
+- Every team member must participate in the presentation.
 
 ---
 
 ## 🖥 Presentation Requirements
 
 Each team must prepare a **PowerPoint/Google Slides presentation**.
-
-### Recommended Slide Structure
+ - You can consider the following structure for preparing your slide, but I encourage you to customize your slide according to your thought.
+ - Don't keep any screenshot of your project in presentation slide.
+ - You can use relevant images/figures/diagrams in you slide.
+ - Avoid using paragraph style insted you can use bullet points.
 
 1. **Title Slide**
    - Project Title
@@ -54,44 +36,40 @@ Each team must prepare a **PowerPoint/Google Slides presentation**.
    - Course Name
    - Instructor Name
 
-2. **Problem Statement**
+2. **Inytroduction/ Overview of Project**
+   - Brief intro of your project to get an early idea about your project
+
+3. **Problem Statement**
    - What problem does your project solve?
+
+4. **Motivation**
+   - Why did you chooose this project?
    - Why is it important?
 
-3. **Objectives**
+5. **Objectives**
    - Main goals of the system
 
-4. **System Overview**
-   - Brief explanation of the application
-   - Target users
-
-5. **Technology Stack**
+6. **Technology Stack**
    - Frontend (HTML, CSS, Bootstrap, etc.)
    - Backend (PHP, Node.js, etc.)
    - Database (MySQL, etc.)
    - Hosting Platform
-
-6. **System Architecture**
-   - Workflow diagram / system diagram
-   - Database structure (ER Diagram if applicable)
-
 7. **Features**
    - Main functionalities
    - User roles (if applicable)
-
-8. **Live Demonstration**
-   - Show working application
-   - Show CRUD operations
-   - Show authentication (if implemented)
-
-9. **Challenges Faced**
+8. **Challenges Faced**
    - Technical problems
    - Learning outcomes
 
-10. **Future Improvements**
+9. **Future Improvements**
    - What can be improved later?
 
-11. **Conclusion**
+10. **Conclusion**
+
+**Live Demonstration**
+   - Show your work
+
+
 
 ---
 
@@ -132,22 +110,10 @@ Failure to upload code or host the project will result in mark deduction.
 
 ## ⚠ Important Notes
 
-- Bring your presentation in a pen drive and also keep backup online.
-- Internet connection may be limited, so prepare accordingly.
+- If you plan to use your personal laptop, please check the connection with the smartboard before your presentation. Or, you may copy your slides and project files directly to the smartboard system in advance.
 - Be professional in dress and behavior.
 - Practice before presentation.
 - Respect time limits.
 
----
 
-## 🎯 Final Reminder
-
-This presentation is not only about showing your project,
-but also about demonstrating:
-- Your understanding
-- Your teamwork
-- Your communication skills
-
-Prepare well and present confidently.
-
-Best of luck to all teams!
+**Best of luck to all teams!**
